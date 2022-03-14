@@ -67,3 +67,5 @@ public class Uebung1Test {
         assertEquals(expected, actual);
     }
 }
+
+/* Repo-Link: https://github.com/berk-6/prog2-ss21-exercise1 */
